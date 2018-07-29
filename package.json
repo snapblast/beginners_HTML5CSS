@@ -1,0 +1,19 @@
+{
+  "name": "traversy_beginnerscss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapblast/beginners_HTML5CSS.git"
+  },
+  "author": "Srishti Sinha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snapblast/beginners_HTML5CSS/issues"
+  },
+  "homepage": "https://github.com/snapblast/beginners_HTML5CSS#readme"
+}
